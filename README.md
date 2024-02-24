@@ -1,6 +1,20 @@
-# capitalhumano.app
+# Capital Humano
 
 ### Índice
+
+- [Comienzo Rapido](#comienzo-rapido)
+  - [Sobre Capital Humano](#sobre-capital-humano)
+  - [Modulos](#modulos)
+    - [Nuevo Talento](#crear-talento)
+    - [Eleccion de actividad](#eleccion-actividad)
+    - [Semillero de Talentos](#semillero)
+    - [Germinador de Talentos](#germinador)
+    - [Entrenamientos de Talentos](#entrenamiento)
+    - [Practivas y proyectos](#practicas-y-proyectos)
+    - [Desarrollo y Especializacion de Talentos](#desarrollo)
+    - [Maestria y Contribucion de Talentos](#Contribucion)
+    
+    
 
 - [Section 1- Fundamentos, Valores y Ética](#sección-1)
   - [1.1 Introducción](#11-introducción)
