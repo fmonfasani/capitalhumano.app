@@ -1,18 +1,30 @@
 # Capital Humano
 
 ### Índice
-
-- [Comienzo Rapido](#comienzo-rapido)
-  - [Sobre Capital Humano](#sobre-capital-humano)
-  - [Modulos](#modulos)
-    - [Nuevo Talento](#crear-talento)
-    - [Eleccion de actividad](#eleccion-actividad)
-    - [Semillero de Talentos](#semillero)
-    - [Germinador de Talentos](#germinador)
-    - [Entrenamientos de Talentos](#entrenamiento)
-    - [Practivas y proyectos](#practicas-y-proyectos)
-    - [Desarrollo y Especializacion de Talentos](#desarrollo)
-    - [Maestria y Contribucion de Talentos](#Contribucion)     
+- [Proyecto Capital Humano](#proyecto-capital-humano)
+ - [Comienzo Rapido](#comienzo-rapido)
+   - [Sobre la APP](#sobre-capital-humano)
+     - [Modulos](#modulos)
+       - [Documentacion](#documentacion)
+       - [Buenas Practicas](#buenas-practicas)
+         - [SOLID: ](#solid)
+         - [DRY: ](#dry)
+         - [KISS: ](#kiss)
+      - [Manejo de Errores / Red](#errores-red)   
+      - [Testing](#testing)
+      - [Seguridad](#seguridad)
+      - [Patrones de Diseño](#patrones-de-diseño)
+      - [Arquitectura](#arquitectura)
+      - [Metricas](·metricas)   
+   - [Talentos](#talentos) 
+     - [Nuevo Talento](#crear-talento)
+     - [Eleccion de actividad](#eleccion-actividad)
+     - [Semillero de Talentos](#semillero)
+     - [Germinador de Talentos](#germinador)
+     - [Entrenamientos de Talentos](#entrenamiento)
+     - [Practicas y Proyectos de Talentos](#practicas-y-proyectos)
+     - [Desarrollo y Especializacion de Talentos](#desarrollo)
+     - [Maestria y Contribucion de Talentos](#Contribucion)     
 
 - [Section 1- Fundamentos, Valores y Ética](#sección-1)
   - [1.1 Introducción](#11-introducción)
@@ -28,9 +40,46 @@
     - [1.3.3 Modo de Trabajo Colaborativo](#133-modo-de-trabajo-colaborativo)
 
 ---
+
+# APP
 ## Comienzo rapido
 ### SObre Capital Humano
+## Codigo
 ### Modulos
+- Documentacion
+- Buenas Practicas
+  - SOLID
+    Codigo Limpio
+  - DRY
+    Don't Repeat yourself
+  - KISS
+    Keep it is simple, stupid!
+- Manejo de Errores / Red      
+- Testing
+- Seguridad
+- Patrones de Diseño
+- Arquitectura
+- Metricas
+  
+
+## Caracteristicas - Features
+  ### Listado - Tablas
+  ### API
+  ### Filtrado de Datos
+  ### Diseño / UI
+  ### Accebilidad / UX
+  ### Proyecto en Produccion
+  
+## Ideas
+#### Originalidad
+#### COlaboracion
+#### Autor
+
+
+
+
+
+
 #### Crear Talento
 [Volver al índice](#índice)
 
@@ -52,7 +101,7 @@
 #### Desarrollo
 [Volver al índice](#índice)
 
-#### COntribucion
+#### Contribucion
 [Volver al índice](#índice)
 
 
