@@ -10,6 +10,7 @@
          - [SOLID: ](#solid)
          - [DRY: ](#dry)
          - [KISS: ](#kiss)
+     - [Caracteristicas](#caracteristicas)
       - [Manejo de Errores / Red](#errores-red)   
       - [Testing](#testing)
       - [ (IC-CD) Integracion continua - Despliege continuo](#integracion-despliegue-continuo)
