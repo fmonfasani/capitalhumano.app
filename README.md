@@ -12,9 +12,7 @@
     - [Entrenamientos de Talentos](#entrenamiento)
     - [Practivas y proyectos](#practicas-y-proyectos)
     - [Desarrollo y Especializacion de Talentos](#desarrollo)
-    - [Maestria y Contribucion de Talentos](#Contribucion)
-    
-    
+    - [Maestria y Contribucion de Talentos](#Contribucion)     
 
 - [Section 1- Fundamentos, Valores y Ética](#sección-1)
   - [1.1 Introducción](#11-introducción)
@@ -30,6 +28,33 @@
     - [1.3.3 Modo de Trabajo Colaborativo](#133-modo-de-trabajo-colaborativo)
 
 ---
+## Comienzo rapido
+### SObre Capital Humano
+### Modulos
+#### Crear Talento
+[Volver al índice](#índice)
+
+#### Eleccion Actividad
+[Volver al índice](#índice)
+
+#### Semillero
+[Volver al índice](#índice)
+
+#### Germinador
+[Volver al índice](#índice)
+
+#### Entrenamiento
+[Volver al índice](#índice)
+
+#### Practicas y Proyectos
+[Volver al índice](#índice)
+
+#### Desarrollo
+[Volver al índice](#índice)
+
+#### COntribucion
+[Volver al índice](#índice)
+
 
 ## Sección 1
 
