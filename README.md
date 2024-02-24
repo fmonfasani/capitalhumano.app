@@ -43,7 +43,7 @@ Este proyecto surge de la necesidad de mejorar el capital humano en un mundo en 
 
 La metodología se basa en la colaboración, la adaptabilidad y la mejora continua, inspirada en las teorías de Gary Becker. La aplicación permite a los usuarios aprender eficientemente y ajustarse a sus necesidades cambiantes.
 
-### 1.2.2 Ética
+#### 1.2.2 Ética
 
 La ética es fundamental, buscamos transparencia, equidad e integridad. Respetamos la diversidad y promovemos un entorno inclusivo.
 
@@ -57,11 +57,11 @@ La ética es fundamental, buscamos transparencia, equidad e integridad. Respetam
 
 La aplicación permite a los usuarios agregar módulos educativos según su experiencia y conocimientos, enriqueciendo la plataforma con diversas opciones de aprendizaje.
 
-### 1.3.2 Modo de Fork
+#### 1.3.2 Modo de Fork
 
 Fomentamos la colaboración mediante el forkeo. Los usuarios pueden bifurcar el proyecto para contribuir o mejorar, facilitando la colaboración y la influencia positiva.
 
-### 1.3.3 Modo de Trabajo Colaborativo
+#### 1.3.3 Modo de Trabajo Colaborativo
 
 La plataforma está diseñada para fomentar el trabajo en equipo, compartir conocimientos y colaborar en la creación y mejora de módulos educativos.
 
