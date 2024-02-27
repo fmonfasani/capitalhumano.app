@@ -92,10 +92,6 @@
 #### Autor
 
 
-
-
-
-
 #### Crear Talento
 [Volver al índice](#índice)
 
